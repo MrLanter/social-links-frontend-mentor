@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [MrLanter Solution](https://your-solution-url.com)
+- Solution URL: [MrLanter Solution](https://www.frontendmentor.io/solutions/simple-page-using-semantic-responsive-meta-and-flexbox-YRrkEHayjL)
 - Live Site URL: [MrLanter Live Site](https://mrlanter.github.io/social-links-frontend-mentor/)
 
 ## My process
